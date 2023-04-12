@@ -1,0 +1,15 @@
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\bin\Debug\net6.0\Tuote.exe
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\bin\Debug\net6.0\Tuote.deps.json
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\bin\Debug\net6.0\Tuote.runtimeconfig.json
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\bin\Debug\net6.0\Tuote.dll
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\bin\Debug\net6.0\Tuote.pdb
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\obj\Debug\net6.0\Tuote.csproj.AssemblyReference.cache
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\obj\Debug\net6.0\Tuote.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\obj\Debug\net6.0\Tuote.AssemblyInfoInputs.cache
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\obj\Debug\net6.0\Tuote.AssemblyInfo.cs
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\obj\Debug\net6.0\Tuote.csproj.CoreCompileInputs.cache
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\obj\Debug\net6.0\Tuote.dll
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\obj\Debug\net6.0\refint\Tuote.dll
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\obj\Debug\net6.0\Tuote.pdb
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\obj\Debug\net6.0\Tuote.genruntimeconfig.cache
+D:\Koulu ja Koodaus\Olio\Tuote\Tuote\Tuote\obj\Debug\net6.0\ref\Tuote.dll

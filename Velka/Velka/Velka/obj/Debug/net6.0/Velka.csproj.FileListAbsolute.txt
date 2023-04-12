@@ -1,0 +1,15 @@
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\bin\Debug\net6.0\Velka.exe
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\bin\Debug\net6.0\Velka.deps.json
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\bin\Debug\net6.0\Velka.runtimeconfig.json
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\bin\Debug\net6.0\Velka.dll
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\bin\Debug\net6.0\Velka.pdb
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\obj\Debug\net6.0\Velka.csproj.AssemblyReference.cache
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\obj\Debug\net6.0\Velka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\obj\Debug\net6.0\Velka.AssemblyInfoInputs.cache
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\obj\Debug\net6.0\Velka.AssemblyInfo.cs
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\obj\Debug\net6.0\Velka.csproj.CoreCompileInputs.cache
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\obj\Debug\net6.0\Velka.dll
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\obj\Debug\net6.0\refint\Velka.dll
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\obj\Debug\net6.0\Velka.pdb
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\obj\Debug\net6.0\Velka.genruntimeconfig.cache
+D:\Koulu ja Koodaus\Olio\Velka\Velka\Velka\obj\Debug\net6.0\ref\Velka.dll
