@@ -8,8 +8,8 @@ namespace Elaimet
 {
     internal class Kissa //luokan nimi
     {
-        private int age; //atribuutit
-        public string Name;
+        private int age=0; //atribuutit
+        public string Name="Miuku";
 
         public Kissa() // Parametriton Konstruktori
         {
@@ -32,11 +32,58 @@ namespace Elaimet
         }
         public void AsetaKissanIka(int age) //metodi
         {
-            this.age = age;
+            bool ageCheck;
+            
+            
+            if (age > 0)
+            {
+                ageCheck = true;
+                this.age = age;
+                Console.WriteLine("Tehtiin muutos");
+                
+
+            }
+            else
+            {
+               
+                
+                ageCheck = false;
+                Console.WriteLine("Ikään ei tehty muutosta");
+
+            }
+            
+            
+
         }
         public int PalautaKissanIka() 
         {
         return age;
         }
+        
+        // Luokan arvon palauttaminen:
+        
+        public void SetKissanNimi(string uusiNimi) 
+        {
+            bool nameCheck;
+            
+            
+            if (uusiNimi.ContainsCaseInsensitive("Hilda")==true)
+            {
+                nameCheck = true;
+
+            }
+            else 
+            {
+                nameCheck = false;
+                Name=uusiNimi;
+                
+            }
+             
+
+           
+        }
     }
-}
+        
+    }
+
+

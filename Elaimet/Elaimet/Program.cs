@@ -29,20 +29,20 @@ namespace Elaimet
             Hevonen1.Nimi = "Histamiini";
             Hevonen1.Paino = 89;
             //Tulosta olion nimi ja paino
-            Console.WriteLine(Hevonen1.Nimi + " " + Hevonen1.Paino);
+            Console.WriteLine(Hevonen1.Nimi + " " + Hevonen1.Paino+"kg");
             
             //Muuta olion nimeä ja painoa
             Hevonen1.Nimi = "Kars";
             Hevonen1.Paino = 79;
             //Tulosta nyt olion nimi ja paino, jotta varmistat että muutos tapahtui
             Console.WriteLine(Hevonen1.Nimi);
-            Console.WriteLine(Hevonen1.Paino);
+            Console.WriteLine(Hevonen1.Paino+"kg");
             
 
             Kissa Cat1 = new Kissa();
             Cat1.Name = "Inni";
             Console.WriteLine(Cat1.Name);
-            
+            Console.Read();
             Cat1.AsetaKissanNimi("Lunu");
             Console.WriteLine(Cat1.PalautaKissanNimi());
             
@@ -52,6 +52,15 @@ namespace Elaimet
             
             Kissa Cat2=new Kissa(7,"Miu");
             Console.WriteLine(Cat2.PalautaKissanNimi() + " "+ Cat2.PalautaKissanIka());
+
+            Kissa katti = new Kissa(10,"Anneli");
+            Console.WriteLine(katti.PalautaKissanNimi()+" "+ katti.PalautaKissanIka());
+            Console.WriteLine(katti.PalautaKissanNimi());
+            katti.SetKissanNimi("Hilda");
+            Console.WriteLine(katti.PalautaKissanNimi());
+            Kissa katty = new Kissa();
+            Console.WriteLine(katty.PalautaKissanNimi()+" " +katty.PalautaKissanIka());
+            
             Console.ReadLine();
 
         }

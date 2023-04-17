@@ -22,18 +22,21 @@ namespace Pilli
             Console.WriteLine(_aani);
 
         }
-        public string returnSound
-        {
 
-            get
-            {
-                return _aani;
-            }
-            set
-            {
-                _aani = value;
-            }
-        }
+        // aikaisemmassa erässä käytin tätä koodipätkää, mutta koodi toimii ilman tätäkin. Kommentiksi laitettu päivityksen kommentoimiseksi.
+
+        //public string returnSound
+        //{
+
+        //    get
+        //    {
+        //        return _aani;
+        //    }
+        //    set
+        //    {
+        //        _aani = value;
+        //    }
+        //}
 
         }
 }
