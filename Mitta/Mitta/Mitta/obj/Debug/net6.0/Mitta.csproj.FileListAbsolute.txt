@@ -1,0 +1,15 @@
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\bin\Debug\net6.0\Mitta.exe
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\bin\Debug\net6.0\Mitta.deps.json
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\bin\Debug\net6.0\Mitta.runtimeconfig.json
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\bin\Debug\net6.0\Mitta.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\bin\Debug\net6.0\Mitta.pdb
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\obj\Debug\net6.0\Mitta.csproj.AssemblyReference.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\obj\Debug\net6.0\Mitta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\obj\Debug\net6.0\Mitta.AssemblyInfoInputs.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\obj\Debug\net6.0\Mitta.AssemblyInfo.cs
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\obj\Debug\net6.0\Mitta.csproj.CoreCompileInputs.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\obj\Debug\net6.0\Mitta.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\obj\Debug\net6.0\refint\Mitta.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\obj\Debug\net6.0\Mitta.pdb
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\obj\Debug\net6.0\Mitta.genruntimeconfig.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Mitta\Mitta\Mitta\obj\Debug\net6.0\ref\Mitta.dll

@@ -1,0 +1,15 @@
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\bin\Debug\net6.0\Maksukortti.exe
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\bin\Debug\net6.0\Maksukortti.deps.json
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\bin\Debug\net6.0\Maksukortti.runtimeconfig.json
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\bin\Debug\net6.0\Maksukortti.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\bin\Debug\net6.0\Maksukortti.pdb
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\obj\Debug\net6.0\Maksukortti.csproj.AssemblyReference.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\obj\Debug\net6.0\Maksukortti.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\obj\Debug\net6.0\Maksukortti.AssemblyInfoInputs.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\obj\Debug\net6.0\Maksukortti.AssemblyInfo.cs
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\obj\Debug\net6.0\Maksukortti.csproj.CoreCompileInputs.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\obj\Debug\net6.0\Maksukortti.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\obj\Debug\net6.0\refint\Maksukortti.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\obj\Debug\net6.0\Maksukortti.pdb
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\obj\Debug\net6.0\Maksukortti.genruntimeconfig.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Maksukortti\Maksukortti\Maksukortti\obj\Debug\net6.0\ref\Maksukortti.dll

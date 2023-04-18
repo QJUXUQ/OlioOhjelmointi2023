@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ElainLuokat;
 
 /**
   
@@ -19,7 +20,8 @@ using System.Threading.Tasks;
    
 **/
 namespace Elaimet
-{
+{                           //Eläin tehtävä jatkuu kansiossa Tehtava1, koska siinä on uusi framework joka ottaa referenssit luokista jotka ovat net.6
+                            //tämä tehtävä tukee net.4 joten referointi on mahdotonta
     class Program
     {
         static void Main(string[] args)
@@ -60,7 +62,18 @@ namespace Elaimet
             Console.WriteLine(katti.PalautaKissanNimi());
             Kissa katty = new Kissa();
             Console.WriteLine(katty.PalautaKissanNimi()+" " +katty.PalautaKissanIka());
-            
+
+            Kissa katti2 = new Kissa();
+            Console.WriteLine(katti2);
+
+            Koira koira = new Koira();
+            koira.Name = "Max";
+            Console.WriteLine(koira.Name);
+            Koira koira2 = new Koira();
+            Console.WriteLine(koira2.PalautaKoiranNimi()+" "+koira2.PalautaKoiranIka());
+            koira2.SetKoiranNimi("musti");
+            Console.WriteLine(koira2.PalautaKoiranNimi() + " " + koira2.PalautaKoiranIka());
+
             Console.ReadLine();
 
         }

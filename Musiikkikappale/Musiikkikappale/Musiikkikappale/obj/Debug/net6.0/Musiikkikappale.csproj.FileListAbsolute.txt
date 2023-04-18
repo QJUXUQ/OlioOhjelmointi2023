@@ -1,0 +1,15 @@
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\bin\Debug\net6.0\Musiikkikappale.exe
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\bin\Debug\net6.0\Musiikkikappale.deps.json
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\bin\Debug\net6.0\Musiikkikappale.runtimeconfig.json
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\bin\Debug\net6.0\Musiikkikappale.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\bin\Debug\net6.0\Musiikkikappale.pdb
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.csproj.AssemblyReference.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.AssemblyInfoInputs.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.AssemblyInfo.cs
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.csproj.CoreCompileInputs.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\refint\Musiikkikappale.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.pdb
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\Musiikkikappale.genruntimeconfig.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Musiikkikappale\Musiikkikappale\Musiikkikappale\obj\Debug\net6.0\ref\Musiikkikappale.dll
