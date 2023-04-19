@@ -30,10 +30,10 @@ namespace Tuote
         {
             Console.WriteLine(Nimi+", hinta "+Hinta+" "+Maara+" kpl");
         }
-        public string Nimi 
-        {
-        get { return nimi; }
-        set { nimi = value; }
+        public string Nimi
+        { 
+            get { return nimi; }
+            set { nimi = value; }
         }
         public double Hinta
         {

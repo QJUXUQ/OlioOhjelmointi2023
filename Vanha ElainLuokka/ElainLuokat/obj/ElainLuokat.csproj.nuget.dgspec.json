@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Elaimet\\ElainLuokat\\ElainLuokat.csproj": {}
+    "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Vanha ElainLuokka\\ElainLuokat\\ElainLuokat.csproj": {}
   },
   "projects": {
-    "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Elaimet\\ElainLuokat\\ElainLuokat.csproj": {
+    "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Vanha ElainLuokka\\ElainLuokat\\ElainLuokat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Elaimet\\ElainLuokat\\ElainLuokat.csproj",
+        "projectUniqueName": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Vanha ElainLuokka\\ElainLuokat\\ElainLuokat.csproj",
         "projectName": "ElainLuokat",
-        "projectPath": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Elaimet\\ElainLuokat\\ElainLuokat.csproj",
+        "projectPath": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Vanha ElainLuokka\\ElainLuokat\\ElainLuokat.csproj",
         "packagesPath": "C:\\Users\\Justiina\\.nuget\\packages\\",
-        "outputPath": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Elaimet\\ElainLuokat\\obj\\",
+        "outputPath": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Vanha ElainLuokka\\ElainLuokat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Justiina\\AppData\\Roaming\\NuGet\\NuGet.Config",

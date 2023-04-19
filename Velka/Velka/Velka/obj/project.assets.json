@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Koulu ja Koodaus\\Olio\\Velka\\Velka\\Velka\\Velka.csproj",
+      "projectUniqueName": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Velka\\Velka\\Velka\\Velka.csproj",
       "projectName": "Velka",
-      "projectPath": "D:\\Koulu ja Koodaus\\Olio\\Velka\\Velka\\Velka\\Velka.csproj",
+      "projectPath": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Velka\\Velka\\Velka\\Velka.csproj",
       "packagesPath": "C:\\Users\\Justiina\\.nuget\\packages\\",
-      "outputPath": "D:\\Koulu ja Koodaus\\Olio\\Velka\\Velka\\Velka\\obj\\",
+      "outputPath": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Velka\\Velka\\Velka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Justiina\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Koulu ja Koodaus\\Olio\\Tuote\\Tuote\\Tuote\\Tuote.csproj": {}
+    "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Tuote\\Tuote\\Tuote\\Tuote.csproj": {}
   },
   "projects": {
-    "D:\\Koulu ja Koodaus\\Olio\\Tuote\\Tuote\\Tuote\\Tuote.csproj": {
+    "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Tuote\\Tuote\\Tuote\\Tuote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Koulu ja Koodaus\\Olio\\Tuote\\Tuote\\Tuote\\Tuote.csproj",
+        "projectUniqueName": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Tuote\\Tuote\\Tuote\\Tuote.csproj",
         "projectName": "Tuote",
-        "projectPath": "D:\\Koulu ja Koodaus\\Olio\\Tuote\\Tuote\\Tuote\\Tuote.csproj",
+        "projectPath": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Tuote\\Tuote\\Tuote\\Tuote.csproj",
         "packagesPath": "C:\\Users\\Justiina\\.nuget\\packages\\",
-        "outputPath": "D:\\Koulu ja Koodaus\\Olio\\Tuote\\Tuote\\Tuote\\obj\\",
+        "outputPath": "D:\\Koulu ja Koodaus\\OlioOhjelmointi2023\\Tuote\\Tuote\\Tuote\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Justiina\\AppData\\Roaming\\NuGet\\NuGet.Config",
