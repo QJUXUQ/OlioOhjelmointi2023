@@ -1,0 +1,12 @@
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\bin\Debug\net6.0\ElainLuokat.deps.json
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\bin\Debug\net6.0\ElainLuokat.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\bin\Debug\net6.0\ElainLuokat.pdb
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\obj\Debug\net6.0\ElainLuokat.csproj.AssemblyReference.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\obj\Debug\net6.0\ElainLuokat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\obj\Debug\net6.0\ElainLuokat.AssemblyInfoInputs.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\obj\Debug\net6.0\ElainLuokat.AssemblyInfo.cs
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\obj\Debug\net6.0\ElainLuokat.csproj.CoreCompileInputs.cache
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\obj\Debug\net6.0\ElainLuokat.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\obj\Debug\net6.0\refint\ElainLuokat.dll
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\obj\Debug\net6.0\ElainLuokat.pdb
+D:\Koulu ja Koodaus\OlioOhjelmointi2023\Elaimet\ElainLuokat\obj\Debug\net6.0\ref\ElainLuokat.dll
