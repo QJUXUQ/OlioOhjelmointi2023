@@ -13,7 +13,16 @@ namespace ElainLuokat
         public void setCanFly(bool canFly) 
         {
 
-            this.wings = canFly; 
+            this.wings = canFly;
+
+            if (canFly)
+            {
+                Console.WriteLine("Can fly");
+            }
+            else
+            {
+                Console.WriteLine("Can't fly");
+            }
         }
 
         public bool getCanFly() 
